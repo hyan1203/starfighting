@@ -1,0 +1,1741 @@
+Initialize engine version: 4.2.0f4 (38efbd14869d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.15.10.1749]
+    Renderer: Mobile Intel(R) 45 Express Chipset Family (Microsoft Corporation - WDDM 1.1)
+    Vendor:   Intel
+    VRAM:     847 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 DF24=0 INTZ=0 RAWZ=0 NULL=0 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\yhb\Desktop\starfight\starFight_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\yhb\Desktop\starfight\starFight_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\yhb\Desktop\starfight\starFight_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\yhb\Desktop\starfight\starFight_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.095 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp Line: 1657)
+
+UnloadTime: 0.857155 ms
+System memory in use before: 9.0 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 8.9 MB.
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 3.526144 ms (FindLiveObjects: 0.285563 ms CreateObjectMapping: 0.080722 ms MarkObjects: 0.356953 ms  DeleteObjects: 0.044327 ms)
+
+UnloadTime: 1.387220 ms
+System memory in use before: 8.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 8.9 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 3.129062 ms (FindLiveObjects: 0.066724 ms CreateObjectMapping: 0.031729 ms MarkObjects: 0.297694 ms  DeleteObjects: 0.032662 ms)
+
+UnloadTime: 1.362957 ms
+System memory in use before: 8.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 8.9 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 3.280242 ms (FindLiveObjects: 0.065791 ms CreateObjectMapping: 0.030796 ms MarkObjects: 0.296761 ms  DeleteObjects: 0.032195 ms)
+
+UnloadTime: 1.362957 ms
+System memory in use before: 8.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 8.9 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 3.612933 ms (FindLiveObjects: 0.072323 ms CreateObjectMapping: 0.032662 ms MarkObjects: 0.565526 ms  DeleteObjects: 0.036395 ms)
+
+UnloadTime: 1.683982 ms
+System memory in use before: 8.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 8.9 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 3.050672 ms (FindLiveObjects: 0.065791 ms CreateObjectMapping: 0.032195 ms MarkObjects: 0.300961 ms  DeleteObjects: 0.033129 ms)
+
+UnloadTime: 1.381154 ms
+System memory in use before: 8.9 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 8.9 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 311.
+Total: 3.203719 ms (FindLiveObjects: 0.068591 ms CreateObjectMapping: 0.031729 ms MarkObjects: 0.303760 ms  DeleteObjects: 0.034062 ms)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:66)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:66)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:66)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+UnloadTime: 1.531868 ms
+System memory in use before: 10.6 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 8.3 MB.
+
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 113.
+Total: 8.022364 ms (FindLiveObjects: 0.063925 ms CreateObjectMapping: 0.031262 ms MarkObjects: 0.267365 ms  DeleteObjects: 4.869970 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp Line: 1657)
+
+UnloadTime: 0.676579 ms
+System memory in use before: 9.0 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.0 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 2.949418 ms (FindLiveObjects: 0.063925 ms CreateObjectMapping: 0.039194 ms MarkObjects: 0.311693 ms  DeleteObjects: 0.041061 ms)
+
+UnloadTime: 1.352225 ms
+System memory in use before: 9.0 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 3.199986 ms (FindLiveObjects: 0.066724 ms CreateObjectMapping: 0.033595 ms MarkObjects: 0.310759 ms  DeleteObjects: 0.033595 ms)
+
+UnloadTime: 1.817431 ms
+System memory in use before: 9.0 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 3.208385 ms (FindLiveObjects: 0.072323 ms CreateObjectMapping: 0.033129 ms MarkObjects: 0.310759 ms  DeleteObjects: 0.033129 ms)
+
+UnloadTime: 1.363423 ms
+System memory in use before: 9.0 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 2.920022 ms (FindLiveObjects: 0.067657 ms CreateObjectMapping: 0.033129 ms MarkObjects: 0.307493 ms  DeleteObjects: 0.033129 ms)
+
+UnloadTime: 1.365290 ms
+System memory in use before: 9.0 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 2.872428 ms (FindLiveObjects: 0.062991 ms CreateObjectMapping: 0.033595 ms MarkObjects: 0.336889 ms  DeleteObjects: 0.033595 ms)
+
+UnloadTime: 1.347559 ms
+System memory in use before: 9.0 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.0 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 3.124862 ms (FindLiveObjects: 0.067191 ms CreateObjectMapping: 0.033595 ms MarkObjects: 0.512333 ms  DeleteObjects: 0.035928 ms)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:66)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:66)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:66)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_left:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:72)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_left:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:72)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_left:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:72)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile.cs:71)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_right:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:74)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_right:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:74)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_right:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:74)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_left:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:72)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_left:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:72)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:68)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_left:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:72)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:66)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_left:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:72)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:66)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_left:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:72)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+The referenced script on this Behaviour is missing!
+UnityEngine.Object:INTERNAL_CALL_Internal_InstantiateSingle(Object, Vector3&, Quaternion&)
+UnityEngine.Object:Internal_InstantiateSingle(Object, Vector3, Quaternion)
+UnityEngine.Object:Instantiate(Object, Vector3, Quaternion)
+Enemy:ApplyDamage(Boolean) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Enemy.cs:66)
+UnityEngine.GameObject:SendMessage(String, Object, SendMessageOptions)
+UnityEngine.GameObject:SendMessage(String, Object)
+Projectile_left:OnTriggerEnter(Collider) (at F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:72)
+
+[C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp line 1657] 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:61 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x0009f] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:63 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_right.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_right.cs:50 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+ArgumentException: The prefab you want to instantiate is null.
+  at UnityEngine.Object.CheckNullArgument (System.Object arg, System.String message) [0x00000] in <filename unknown>:0 
+  at UnityEngine.Object.Instantiate (UnityEngine.Object original, Vector3 position, Quaternion rotation) [0x00000] in <filename unknown>:0 
+  at Projectile_left.OnTriggerEnter (UnityEngine.Collider oll) [0x00064] in F:\study\游戏设计\starFighting\Assets\changjing\Scripts\Projectile_left.cs:48 
+ 
+(Filename: F Line: 0)
+
+UnloadTime: 4.891901 ms
+System memory in use before: 15.5 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 8.4 MB.
+
+Unloading 141 unused Assets to reduce memory usage. Loaded Objects now: 119.
+Total: 17.444080 ms (FindLiveObjects: 0.049926 ms CreateObjectMapping: 0.037795 ms MarkObjects: 0.264099 ms  DeleteObjects: 14.267424 ms)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename: C:/BuildAgent/work/cac08d8a5e25d4cb/Runtime/Mono/MonoBehaviour.cpp Line: 1657)
+
+UnloadTime: 0.991538 ms
+System memory in use before: 9.1 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.1 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 3.153792 ms (FindLiveObjects: 0.063925 ms CreateObjectMapping: 0.041527 ms MarkObjects: 0.571126 ms  DeleteObjects: 0.043394 ms)
+
+UnloadTime: 1.346626 ms
+System memory in use before: 9.1 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 3.045539 ms (FindLiveObjects: 0.069990 ms CreateObjectMapping: 0.032662 ms MarkObjects: 0.387749 ms  DeleteObjects: 0.034062 ms)
+
+UnloadTime: 1.397019 ms
+System memory in use before: 9.1 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 2.948952 ms (FindLiveObjects: 0.066724 ms CreateObjectMapping: 0.034062 ms MarkObjects: 0.420878 ms  DeleteObjects: 0.034528 ms)
+
+UnloadTime: 1.347092 ms
+System memory in use before: 9.1 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 3.010077 ms (FindLiveObjects: 0.073257 ms CreateObjectMapping: 0.035462 ms MarkObjects: 0.336889 ms  DeleteObjects: 0.036395 ms)
+
+UnloadTime: 1.433881 ms
+System memory in use before: 9.1 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 2.929354 ms (FindLiveObjects: 0.064391 ms CreateObjectMapping: 0.039194 ms MarkObjects: 0.334556 ms  DeleteObjects: 0.036395 ms)
+
+UnloadTime: 1.353158 ms
+System memory in use before: 9.1 MB.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 9.1 MB.
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 312.
+Total: 2.905091 ms (FindLiveObjects: 0.075123 ms CreateObjectMapping: 0.039194 ms MarkObjects: 0.321491 ms  DeleteObjects: 0.034062 ms)
+
+Waiting for finish
